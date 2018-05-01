@@ -1,0 +1,23 @@
+.Caption{
+  font-family: Helvetica;
+  font-family: 100px;
+  font-weight: bold;
+  color: Khaki;
+  text-align: horizontal;
+
+}
+class.Price{
+  font-family: Helvetica;
+  font-weight: Bold;
+  Color: Blue;
+}
+.Image{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+
+text-align: center;
+}
+#Brushes{
+  display: block;
+  background-color: mediumsspringgreen;
+    padding: 10px;
+}
